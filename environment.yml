@@ -9,3 +9,4 @@ dependencies:
     - pyvista
     - trame
     - matplotlib
+    - scikit-learn

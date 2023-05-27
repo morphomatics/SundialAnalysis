@@ -1,2 +1,4 @@
 # SundialAnalysis
-This repository contains the data and notebooks that allow to reproduce experiments from the article ‘‘Intrinsic shape analysis in archaeology: A case study on ancient sundials’’. 
+This repository contains the data and notebooks that allow to reproduce experiments from the article ‘‘Intrinsic shape analysis in archaeology: A case study on ancient sundials’’. The underlying methodological building blocks are part of the [Morphomatics](https://github.com/morphomatics/morphomatics) library.
+
+Start the interactive demos about shape normalization [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/morphomatics/SundialAnalysis/HEAD?filepath=normalize_latitude.ipynb) and latitude prediction [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/morphomatics/SundialAnalysis/HEAD?filepath=prediction_comparison.ipynb) on Binder.
